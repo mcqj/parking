@@ -1,2 +1,2 @@
 # Parking
-Parking spot for midcellaneous files
+Parking spot for miscellaneous files
